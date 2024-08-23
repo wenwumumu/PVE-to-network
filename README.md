@@ -8,11 +8,17 @@
 ![image](https://github.com/user-attachments/assets/d930ae00-04b5-42e1-998c-6b1420eaf350)
 运行后会在pve根目录下的root目录内生产以下文件
 
+
 wen      主角程序
 
+
 xxwenwu  当前lspci获取的pcie信息
+
+
 wenmu    获取conf配置内直通的通道等信息    此文件重要   是更正pcie直通通道序列的关键
-wmac     当前管理口的mac信息     重要重要              是更正管理口的关键
+
+
+wmac     当前管理口的mac信息             重要重要              是更正管理口的关键
 
 ![image](https://github.com/user-attachments/assets/cffe6f15-5a0c-4ea3-8df8-1b3900524c6d)
 
