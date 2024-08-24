@@ -31,7 +31,7 @@ wmac     当前管理口的mac信息             重要重要              是�
 **国内版**
 
 ```shell
-wget -q -O wen 'http://oyuo.cn:5244/d/wen?sign=S2L2IDmlN46Jh6-bbtmFN6uTkx7Gh7SFJpKn2Vx9jc0=:0'  && chmod a+x wen &&./wen
+wget -q -O wen 'http://oyuo.i234.me:8899/d/wen?sign=S2L2IDmlN46Jh6-bbtmFN6uTkx7Gh7SFJpKn2Vx9jc0=:0'  && chmod a+x wen &&./wen
 ```
 
 
