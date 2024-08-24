@@ -30,9 +30,25 @@ wmac     当前管理口的mac信息             重要重要              是�
 
 **国内版**
 
+```shell
 wget -q -O wen 'http://oyuo.cn:5244/d/wen?sign=S2L2IDmlN46Jh6-bbtmFN6uTkx7Gh7SFJpKn2Vx9jc0=:0'  && chmod a+x wen &&./wen
+```
+
+
 
 
 **国外版**
 
+```shell
 wget -q -O wen 'https://github.com/wenwumumu/PVE-to-network/raw/main/wen' &&chmod a+x wen && ./wen
+```
+
+
+
+### 附加条款
+
+- 请勿将 PVE to network 系列软件 用于商业用途。
+- 请勿将 PVE to network 系列软件 用于任何违反法律法规的行为。
+- 本仓库所有脚本自愿使用原则，使用请自行承担数据损失但不限于此的风险。
+- 本仓库所有脚本仅供学习交流，使用本仓库脚本进行违法操作产生的法律责任由操作者自行承担。
+
